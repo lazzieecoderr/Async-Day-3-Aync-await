@@ -1,0 +1,14 @@
+Async-Await
+Error Handling
+
+Async-Await:-
+=> It is applicable to function 
+=> A normal function can be converted into async function by using async keyword
+=> It return a promise
+=> Await keyword is used to handle async function
+=> await is used inside the function
+=> await is used for the replacement of .then
+=> await help us to wait until the promise gets resolved.
+
+ Error Handling
+ . try -catch
